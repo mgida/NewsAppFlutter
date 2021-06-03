@@ -2,7 +2,7 @@
 
 ## An application for searching , retrieving articles and saving them to read later
 
-# developed with :
+## developed with :
 * chopper
 * json_serializable
 * moor db
@@ -10,7 +10,10 @@
 
 ## Before starting 
 
-get your api_key and put it in lib\utils\constants file
+```diff
+- get your api_key and put it in lib\utils\constants file in red
+
+[Get your api_key](https://newsapi.org/)
 
 <img src="https://user-images.githubusercontent.com/38481452/120585516-28fcd800-c432-11eb-86e4-4d7cbd91035a.jpg" />
 <img src="https://user-images.githubusercontent.com/38481452/120585528-2dc18c00-c432-11eb-8c49-4602a6516171.jpg" />
