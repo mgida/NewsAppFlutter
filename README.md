@@ -12,7 +12,7 @@
 
 get your api_key and put it in lib\utils\constants file
 
-<img src="https://user-images.githubusercontent.com/38481452/120585516-28fcd800-c432-11eb-86e4-4d7cbd91035a.jpg" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/38481452/120585516-28fcd800-c432-11eb-86e4-4d7cbd91035a.jpg" width="300" height="400" />
 <img src="https://user-images.githubusercontent.com/38481452/120585528-2dc18c00-c432-11eb-8c49-4602a6516171.jpg" width="200" height="200" />
 <img src="https://user-images.githubusercontent.com/38481452/120585555-374af400-c432-11eb-84f1-45ee77a69906.jpg" width="200" height="200" />
 <img src="https://user-images.githubusercontent.com/38481452/120585559-3ade7b00-c432-11eb-9bea-c96774280375.jpg" width="200" height="200" />
