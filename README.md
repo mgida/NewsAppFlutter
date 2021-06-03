@@ -9,7 +9,7 @@
 * provider
 
 ## Before starting 
-get your api_key and put it in lib\utils\constants file in red
+get your api_key and put it in lib\utils\constants file 
 
 [Get your api_key](https://newsapi.org/)
 
